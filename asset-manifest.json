@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KatherineMak/re-store/static/css/main.21d73c4a.chunk.css",
+    "main.js": "/KatherineMak/re-store/static/js/main.7b7f5942.chunk.js",
+    "main.js.map": "/KatherineMak/re-store/static/js/main.7b7f5942.chunk.js.map",
+    "runtime-main.js": "/KatherineMak/re-store/static/js/runtime-main.ab2d7cd3.js",
+    "runtime-main.js.map": "/KatherineMak/re-store/static/js/runtime-main.ab2d7cd3.js.map",
+    "static/js/2.263c86ed.chunk.js": "/KatherineMak/re-store/static/js/2.263c86ed.chunk.js",
+    "static/js/2.263c86ed.chunk.js.map": "/KatherineMak/re-store/static/js/2.263c86ed.chunk.js.map",
+    "index.html": "/KatherineMak/re-store/index.html",
+    "precache-manifest.c5caa8945022b7f076a0835080d8fa56.js": "/KatherineMak/re-store/precache-manifest.c5caa8945022b7f076a0835080d8fa56.js",
+    "service-worker.js": "/KatherineMak/re-store/service-worker.js",
+    "static/css/main.21d73c4a.chunk.css.map": "/KatherineMak/re-store/static/css/main.21d73c4a.chunk.css.map",
+    "static/js/2.263c86ed.chunk.js.LICENSE": "/KatherineMak/re-store/static/js/2.263c86ed.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab2d7cd3.js",
+    "static/js/2.263c86ed.chunk.js",
+    "static/css/main.21d73c4a.chunk.css",
+    "static/js/main.7b7f5942.chunk.js"
+  ]
+}
